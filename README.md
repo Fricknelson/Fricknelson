@@ -11,16 +11,12 @@ Estudante de Sistemas de Informação (UDESC) em transição para desenvolviment
 ## 🔭 Foco atual
 - Java: OOP, tratamento de exceções, Java NIO, Collections Framework (ArrayList, Comparable, Comparator, Big-O)
 - SQL: base teórica (SELECT, WHERE, JOIN) — ainda sem aplicação em projeto real
-- Próximos passos do roadmap: Git → SQL aplicado → Spring Boot (Spring Data JPA) → PostgreSQL → Docker → JUnit/Mockito
 
 ## 💻 Projetos
 - **Gerenciador de tarefas (CLI)** — projeto de estruturação OOP em Java
 - **Gerador de senhas** — Java
 - **Snake game** — jogo por turnos em Java
 - **Protótipo de blockchain** — classe `Block` com hashing SHA (MessageDigest) e loop de mineração por força bruta (sem transações/carteira ainda)
-- **LeetCode** — ~15 problemas resolvidos (força bruta), em processo de refatoração para HashMap/HashSet
-
-> Links dos repositórios: adicionar aqui.
 
 ## 🌱 Formação
 Bacharelado em Sistemas de Informação — UDESC (2026–2030)
@@ -29,4 +25,5 @@ Bacharelado em Sistemas de Informação — UDESC (2026–2030)
 Português (nativo) · Inglês (avançado) · Alemão (básico)
 
 ## 📫 Contato
-LinkedIn: adicionar link aqui
+LinkedIn: [![LinkedIn](https://shields.io)](www.linkedin.com/in/pedro-frick-369705337)
+
