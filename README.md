@@ -1,16 +1,32 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Candidato+a+Est%C3%A1gio+em+Backend;Java+%7C+Sistemas+de+Informa%C3%A7%C3%A3o+-+UDESC)](https://git.io/typing-svg)
 
-<!--
-**Fricknelson/Fricknelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, sou o Pedro 👋
 
-Here are some ideas to get you started:
+Estudante de Sistemas de Informação (UDESC) em transição para desenvolvimento backend, com foco em Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🔭 Foco atual
+- Java: OOP, tratamento de exceções, Java NIO, Collections Framework (ArrayList, Comparable, Comparator, Big-O)
+- SQL: base teórica (SELECT, WHERE, JOIN) — ainda sem aplicação em projeto real
+- Próximos passos do roadmap: Git → SQL aplicado → Spring Boot (Spring Data JPA) → PostgreSQL → Docker → JUnit/Mockito
+
+## 💻 Projetos
+- **Gerenciador de tarefas (CLI)** — projeto de estruturação OOP em Java
+- **Gerador de senhas** — Java
+- **Snake game** — jogo por turnos em Java
+- **Protótipo de blockchain** — classe `Block` com hashing SHA (MessageDigest) e loop de mineração por força bruta (sem transações/carteira ainda)
+- **LeetCode** — ~15 problemas resolvidos (força bruta), em processo de refatoração para HashMap/HashSet
+
+> Links dos repositórios: adicionar aqui.
+
+## 🌱 Formação
+Bacharelado em Sistemas de Informação — UDESC (2026–2030)
+
+## 🗣️ Idiomas
+Português (nativo) · Inglês (avançado) · Alemão (básico)
+
+## 📫 Contato
+LinkedIn: adicionar link aqui
