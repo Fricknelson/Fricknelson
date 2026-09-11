@@ -25,5 +25,5 @@ Bacharelado em Sistemas de Informação — UDESC (2026–2030)
 Português (nativo) · Inglês (avançado) · Alemão (básico)
 
 ## 📫 Contato
-LinkedIn: [![LinkedIn](https://shields.io)](www.linkedin.com/in/pedro-frick-369705337)
+LinkedIn: [![Pedro Frick](https://shields.io)](www.linkedin.com/in/pedro-frick-369705337)
 
